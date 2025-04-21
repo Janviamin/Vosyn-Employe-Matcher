@@ -14,49 +14,60 @@ def calculate_match_percentage(required_skills, emp_skills):
     emp_set = set(emp_skills.split(", "))
     matched_skills = required_set.intersection(emp_set)
     
-    if not required_set:  # Avoid division by zero
-        return 0
+    #if not required_set:  # Avoid division by zero
+    #    return 0
     
     return round((len(matched_skills) / len(required_set)) * 100, 2)
 
 def match_employees(project_file):
     """Finds the best employees for each project based on exact and partial skill matching."""
     employees = load_employee_data()
+    total_employees = len(employees)
     project_requirements = pd.read_excel(project_file)
-
+    print(project_requirements)
     matched_projects = {}
+    assigned_employees = set()  # Store emails of already assigned employees
 
     for _, project in project_requirements.iterrows():
         project_name = project["Project Name"]
         required_skills = project["Required Skills"]
-        required_department = project["Department"]
+        #required_department = project["Department"]
         required_count = project["Number of People Required"]
-
+        #print(assigned_employees)
         matched_candidates = []
+        
 
-        for _, employee in employees.iterrows():
+        i = 0
+        assigned_count = 0
+
+        while i < total_employees and assigned_count < required_count:
+            employee = employees.iloc[i]
             emp_skills = employee["Technical Skills"]
-            emp_department = employee["Department"]
+            emp_email = employee["Email"]
 
-            if emp_department == required_department:
-                match_percentage = calculate_match_percentage(required_skills, emp_skills)
-                if match_percentage > 0:
-                    matched_candidates.append({
-                        "Name": employee["Name"],
-                        "Email": employee["Email"],
-                        "Match Percentage": match_percentage
-                    })
+            # Skip if already assigned to a project
+            if emp_email in assigned_employees:
+                i += 1
+                continue
 
-        # Sort candidates by match percentage in descending order
-        matched_candidates.sort(key=lambda x: x["Match Percentage"], reverse=True)
+            match_percentage = calculate_match_percentage(required_skills, emp_skills)
+            print(match_percentage)
+            if match_percentage > 0:
+                assigned_employees.add(emp_email)  # Mark as assigned
+                matched_candidates.append({
+                    "Name": employee["Name"],
+                    "Email": emp_email,
+                    "Match Percentage": match_percentage
+                })
+                assigned_count += 1
 
-        # Select top candidates based on required count
-        selected_candidates = matched_candidates[:required_count]
+            i += 1
+
 
         # Format the output
         formatted_matches = [
             f"{candidate['Name']} ({candidate['Email']}) - {candidate['Match Percentage']}% match"
-            for candidate in selected_candidates
+            for candidate in matched_candidates
         ]
 
         # Store results only if there's at least one match
@@ -77,7 +88,7 @@ uploaded_file = st.file_uploader("Upload Project Requirements Excel", type=["xls
 
 if uploaded_file:
     matched_results = match_employees(uploaded_file)
-    
+    print(matched_results)
     if not matched_results:
         st.write("No projects found with matching employees.")
     else:
@@ -95,8 +106,3 @@ if uploaded_file:
     mime="text/csv",
     icon=":material/download:",
     )
-
-
-    
-
-
