@@ -13,10 +13,6 @@ def calculate_match_percentage(required_skills, emp_skills):
     required_set = set(required_skills.split(", "))
     emp_set = set(emp_skills.split(", "))
     matched_skills = required_set.intersection(emp_set)
-    
-    #if not required_set:  # Avoid division by zero
-    #    return 0
-    
     return round((len(matched_skills) / len(required_set)) * 100, 2)
 
 def match_employees(project_file):
@@ -31,49 +27,52 @@ def match_employees(project_file):
     for _, project in project_requirements.iterrows():
         project_name = project["Project Name"]
         required_skills = project["Required Skills"]
-        #required_department = project["Department"]
         required_count = project["Number of People Required"]
-        #print(assigned_employees)
+
         matched_candidates = []
-        
+        buffer_candidates = []
 
-        i = 0
-        assigned_count = 0
-
-        while i < total_employees and assigned_count < required_count:
-            employee = employees.iloc[i]
-            emp_skills = employee["Technical Skills"]
+        for _, employee in employees.iterrows():
             emp_email = employee["Email"]
-
-            # Skip if already assigned to a project
             if emp_email in assigned_employees:
-                i += 1
                 continue
 
+            emp_skills = employee["Technical Skills"]
             match_percentage = calculate_match_percentage(required_skills, emp_skills)
-            print(match_percentage)
-            if match_percentage > 0:
-                assigned_employees.add(emp_email)  # Mark as assigned
+
+            if match_percentage == 100:
                 matched_candidates.append({
                     "Name": employee["Name"],
                     "Email": emp_email,
                     "Match Percentage": match_percentage
                 })
-                assigned_count += 1
+                assigned_employees.add(emp_email)
+                if len(matched_candidates) == required_count:
+                    break
+            elif match_percentage > 0:
+                buffer_candidates.append({
+                    "Name": employee["Name"],
+                    "Email": emp_email,
+                    "Match Percentage": match_percentage
+                })
 
-            i += 1
+        # If not enough exact matches, fill remaining slots with best buffer candidates
+        if len(matched_candidates) < required_count:
+            buffer_candidates.sort(key=lambda x: x["Match Percentage"], reverse=True)
+            for candidate in buffer_candidates:
+                if len(matched_candidates) == required_count:
+                    break
+                matched_candidates.append(candidate)
+                assigned_employees.add(candidate["Email"])
 
-
-        # Format the output
-        formatted_matches = [
-            f"{candidate['Name']} ({candidate['Email']}) - {candidate['Match Percentage']}% match"
-            for candidate in matched_candidates
-        ]
-
-        # Store results only if there's at least one match
-        if formatted_matches:
+        # Store results
+        if matched_candidates:
+            formatted_matches = [
+                f"{candidate['Name']} ({candidate['Email']}) - {candidate['Match Percentage']}% match"
+                for candidate in matched_candidates
+            ]
             matched_projects[project_name] = formatted_matches
-
+    
     return matched_projects
 
 @st.cache_data
