@@ -1,0 +1,501 @@
+Employee,Email,Department,Skills
+Steve Tucker,steve.tucker@example.com,Project Management,Agile; Risk Management; Scrum
+Richard Hobbs,richard.hobbs@example.com,Data Science,Machine Learning; Python; Statistics; SQL
+Kerri Hodges,kerri.hodges@example.com,Software Development,C#; .NET; Spring Boot
+Betty Rodriguez,betty.rodriguez@example.com,Data Science,Machine Learning; Python
+Amanda Powers,amanda.powers@example.com,Data Science,Python; Statistics
+Jason Mathews,jason.mathews@example.com,Cloud Computing,AWS; Docker; Kubernetes; Azure
+Thomas Schroeder,thomas.schroeder@example.com,Cybersecurity,Network Security; Linux; Penetration Testing
+Melissa Robbins,melissa.robbins@example.com,Project Management,Scrum; Risk Management
+Rachel Lynch,rachel.lynch@example.com,Cloud Computing,Kubernetes; AWS; Azure
+Joanna Martinez,joanna.martinez@example.com,Cloud Computing,AWS; Azure
+Francisco Ellis,francisco.ellis@example.com,Cloud Computing,Azure; Kubernetes; AWS; Docker
+John Bishop,john.bishop@example.com,Data Science,SQL; Statistics; Python
+Timothy Cannon,timothy.cannon@example.com,Web Development,React; HTML; JavaScript
+Jeffery Hunter,jeffery.hunter@example.com,Project Management,Stakeholder Communication; Scrum; Agile; Risk Management
+Leah Keller,leah.keller@example.com,Cybersecurity,Network Security; Linux; Penetration Testing
+Amber Yates,amber.yates@example.com,Project Management,Agile; Risk Management
+Christian Ortiz,christian.ortiz@example.com,Software Development,C#; Spring Boot; Java
+Brian Crawford,brian.crawford@example.com,Data Science,Python; Machine Learning
+Jonathan Anderson,jonathan.anderson@example.com,Data Science,Statistics; Python; Machine Learning
+Michael Davis,michael.davis@example.com,Project Management,Risk Management; Agile; Scrum; Stakeholder Communication
+Valerie Mendoza,valerie.mendoza@example.com,Cloud Computing,Kubernetes; AWS; Docker; Azure
+Joseph Miller,joseph.miller@example.com,Data Science,Statistics; SQL
+Zachary Marshall,zachary.marshall@example.com,Project Management,Agile; Stakeholder Communication; Scrum; Risk Management
+Meagan Powell,meagan.powell@example.com,Software Development,C#; .NET
+Jackson Woods,jackson.woods@example.com,Web Development,Node.js; HTML; React
+Becky Willis,becky.willis@example.com,Project Management,Stakeholder Communication; Risk Management; Agile
+Laura Gutierrez,laura.gutierrez@example.com,Cloud Computing,Kubernetes; Docker; Azure; AWS
+Kathy Patton,kathy.patton@example.com,Project Management,Scrum; Risk Management; Stakeholder Communication
+Melissa Bennett,melissa.bennett@example.com,Web Development,HTML; CSS; JavaScript
+Kevin Velasquez,kevin.velasquez@example.com,Web Development,Node.js; JavaScript; CSS; React
+Dylan Pena,dylan.pena@example.com,Project Management,Agile; Scrum; Stakeholder Communication; Risk Management
+John Schneider,john.schneider@example.com,Data Science,SQL; Python; Statistics
+Ashley Curtis,ashley.curtis@example.com,Project Management,Stakeholder Communication; Risk Management; Agile
+Teresa Galvan,teresa.galvan@example.com,Software Development,C#; Microservices
+April Scott,april.scott@example.com,Project Management,Risk Management; Stakeholder Communication; Agile
+Valerie Hahn,valerie.hahn@example.com,Software Development,Spring Boot; .NET; Java; C#
+Lisa Weaver,lisa.weaver@example.com,Web Development,HTML; Node.js; CSS; React
+Sheila Lee,sheila.lee@example.com,Cloud Computing,AWS; Azure; Docker; Kubernetes
+Scott Howell,scott.howell@example.com,Project Management,Scrum; Stakeholder Communication; Agile
+Tamara Stevenson,tamara.stevenson@example.com,Web Development,React; HTML; JavaScript; Node.js
+Drew Reid,drew.reid@example.com,Project Management,Agile; Scrum; Stakeholder Communication; Risk Management
+Michelle Jones,michelle.jones@example.com,Software Development,C#; Spring Boot; .NET; Java
+Sara Richmond,sara.richmond@example.com,Cloud Computing,AWS; Docker; Kubernetes
+Paul Cohen,paul.cohen@example.com,Data Science,Machine Learning; Statistics
+Jennifer Miles,jennifer.miles@example.com,Project Management,Stakeholder Communication; Scrum
+Mary Villa,mary.villa@example.com,Cybersecurity,Network Security; Firewall Management; Linux
+Ashley Johnson,ashley.johnson@example.com,Web Development,React; Node.js; JavaScript
+Colleen Gonzalez,colleen.gonzalez@example.com,Project Management,Agile; Stakeholder Communication; Risk Management; Scrum
+Derek Murphy,derek.murphy@example.com,Software Development,.NET; Java; Spring Boot; C#
+Spencer Brown,spencer.brown@example.com,Cybersecurity,Network Security; Penetration Testing; Linux; Firewall Management
+Douglas Guerrero,douglas.guerrero@example.com,Data Science,Power BI; Statistics
+Kim Woods,kim.woods@example.com,Project Management,Agile; Risk Management; Scrum; Stakeholder Communication
+Rebecca Orozco,rebecca.orozco@example.com,Web Development,React; CSS
+Javier Williamson,javier.williamson@example.com,Data Science,SQL; Python; Power BI; Statistics
+Jodi Stewart,jodi.stewart@example.com,Data Science,Python; Power BI
+Roger Rice,roger.rice@example.com,Cybersecurity,Penetration Testing; Linux
+Elaine Wright,elaine.wright@example.com,Cybersecurity,Penetration Testing; Network Security; Linux; Firewall Management
+Russell Hanson,russell.hanson@example.com,Project Management,Stakeholder Communication; Scrum; Agile; Risk Management
+Andrea Griffith,andrea.griffith@example.com,Software Development,C#; .NET
+Zachary Wilson,zachary.wilson@example.com,Software Development,.NET; C#
+Melissa Perez,melissa.perez@example.com,Cloud Computing,Docker; Kubernetes
+Sharon Davis,sharon.davis@example.com,Cybersecurity,Network Security; Penetration Testing; Firewall Management
+Carlos Wade,carlos.wade@example.com,Data Science,SQL; Power BI; Statistics; Machine Learning
+Jeffrey Rivera,jeffrey.rivera@example.com,Cybersecurity,Firewall Management; Network Security; Linux; Penetration Testing
+Isabella Montoya,isabella.montoya@example.com,Data Science,Machine Learning; Power BI; Python
+Christopher Castro,christopher.castro@example.com,Web Development,Node.js; HTML
+Jacqueline Chase,jacqueline.chase@example.com,Software Development,Spring Boot; C#; Microservices
+Tamara Ashley,tamara.ashley@example.com,Cloud Computing,Kubernetes; AWS; Docker; Azure
+Rhonda Silva,rhonda.silva@example.com,Web Development,React; Node.js; CSS; HTML
+James Sullivan,james.sullivan@example.com,Software Development,Microservices; Java; .NET; C#
+Thomas Moreno,thomas.moreno@example.com,Project Management,Risk Management; Agile; Stakeholder Communication; Scrum
+Zachary Martin,zachary.martin@example.com,Project Management,Agile; Stakeholder Communication
+Aimee Morales,aimee.morales@example.com,Cloud Computing,Azure; Docker
+Eric Nguyen,eric.nguyen@example.com,Project Management,Agile; Stakeholder Communication
+Michael Patel,michael.patel@example.com,Web Development,HTML; CSS; React; Node.js
+Megan Morrison,megan.morrison@example.com,Project Management,Stakeholder Communication; Scrum; Agile; Risk Management
+Lisa Obrien,lisa.obrien@example.com,Web Development,HTML; CSS
+Laura Reynolds,laura.reynolds@example.com,Data Science,Python; SQL; Statistics
+Joseph Walters,joseph.walters@example.com,Data Science,Machine Learning; Statistics; Power BI; SQL
+Michael Powell,michael.powell@example.com,Project Management,Risk Management; Stakeholder Communication; Scrum; Agile
+David Conway,david.conway@example.com,Cloud Computing,Azure; Kubernetes; Docker; AWS
+Amanda Wise,amanda.wise@example.com,Cybersecurity,Firewall Management; Linux; Network Security; Penetration Testing
+Nicole Martinez,nicole.martinez@example.com,Software Development,Java; .NET; C#; Microservices
+Candace Miller,candace.miller@example.com,Data Science,Power BI; Statistics; Machine Learning; Python
+Duane Banks,duane.banks@example.com,Cloud Computing,Docker; Azure
+Gregory Mcfarland,gregory.mcfarland@example.com,Data Science,Statistics; Python
+Ricky Small,ricky.small@example.com,Cybersecurity,Firewall Management; Linux; Penetration Testing
+Beverly Robinson,beverly.robinson@example.com,Cloud Computing,Kubernetes; Azure; AWS
+Allison Bryant,allison.bryant@example.com,Data Science,Power BI; Python; Statistics; Machine Learning
+Shannon Chandler,shannon.chandler@example.com,Data Science,Python; Statistics; Power BI; Machine Learning
+David Ball,david.ball@example.com,Web Development,Node.js; CSS; JavaScript; HTML
+Cody Mora,cody.mora@example.com,Cybersecurity,Network Security; Firewall Management; Linux; Penetration Testing
+Debra Black,debra.black@example.com,Cloud Computing,Kubernetes; Azure; Docker
+Brandon Murphy,brandon.murphy@example.com,Cloud Computing,Kubernetes; Docker
+Christina Sellers,christina.sellers@example.com,Project Management,Agile; Stakeholder Communication
+Peter Walker,peter.walker@example.com,Cloud Computing,Docker; AWS; Azure
+Christopher Watson,christopher.watson@example.com,Web Development,React; JavaScript
+Amber Wagner,amber.wagner@example.com,Cloud Computing,Kubernetes; Azure
+Grant Stephens,grant.stephens@example.com,Cybersecurity,Firewall Management; Penetration Testing; Network Security
+David Juarez,david.juarez@example.com,Web Development,JavaScript; HTML
+Robert Hays,robert.hays@example.com,Web Development,Node.js; CSS; JavaScript; HTML
+Jennifer Silva,jennifer.silva@example.com,Cybersecurity,Penetration Testing; Firewall Management; Network Security; Linux
+Amanda Rivera,amanda.rivera@example.com,Web Development,CSS; Node.js; JavaScript; HTML
+Julie Hendrix,julie.hendrix@example.com,Cloud Computing,AWS; Azure; Docker
+Keith Thompson,keith.thompson@example.com,Web Development,Node.js; CSS
+Katelyn Chavez,katelyn.chavez@example.com,Cybersecurity,Penetration Testing; Firewall Management
+Erin Cox,erin.cox@example.com,Software Development,C#; .NET; Java; Spring Boot
+Connor Donovan,connor.donovan@example.com,Cybersecurity,Firewall Management; Linux; Penetration Testing; Network Security
+Jill Scott,jill.scott@example.com,Project Management,Agile; Stakeholder Communication
+Kathleen Baker,kathleen.baker@example.com,Web Development,HTML; React; Node.js; JavaScript
+Jane Brown,jane.brown@example.com,Web Development,JavaScript; Node.js; React; CSS
+Gabrielle Ferguson,gabrielle.ferguson@example.com,Software Development,Microservices; Java; .NET
+Bobby Kelly,bobby.kelly@example.com,Web Development,React; CSS; Node.js; HTML
+Nathan Washington,nathan.washington@example.com,Cloud Computing,Docker; Kubernetes
+Lindsay Gonzalez,lindsay.gonzalez@example.com,Cloud Computing,AWS; Kubernetes
+Todd Velasquez,todd.velasquez@example.com,Data Science,Machine Learning; Power BI
+Megan Townsend,megan.townsend@example.com,Software Development,.NET; Spring Boot
+Michael Brown,michael.brown@example.com,Cloud Computing,Azure; Kubernetes; AWS
+Nicholas Baker,nicholas.baker@example.com,Cloud Computing,Azure; AWS; Kubernetes; Docker
+Sylvia Rice,sylvia.rice@example.com,Project Management,Stakeholder Communication; Scrum; Risk Management
+Eric Williams,eric.williams@example.com,Web Development,HTML; Node.js
+Kevin Mcdowell,kevin.mcdowell@example.com,Data Science,Python; Machine Learning; Statistics
+Andrew Roberts,andrew.roberts@example.com,Project Management,Scrum; Stakeholder Communication; Risk Management
+Alyssa Graham,alyssa.graham@example.com,Software Development,Spring Boot; .NET
+Kayla Thompson,kayla.thompson@example.com,Software Development,Spring Boot; Java; .NET
+Frederick Saunders,frederick.saunders@example.com,Cybersecurity,Linux; Firewall Management
+Joseph Duke,joseph.duke@example.com,Cybersecurity,Network Security; Penetration Testing; Firewall Management
+Alyssa Riley,alyssa.riley@example.com,Software Development,Microservices; .NET; Spring Boot
+Alyssa Berg,alyssa.berg@example.com,Web Development,HTML; React
+Ashley Preston,ashley.preston@example.com,Cybersecurity,Network Security; Linux; Penetration Testing; Firewall Management
+Miranda Lane,miranda.lane@example.com,Cybersecurity,Network Security; Linux
+Amy Rogers,amy.rogers@example.com,Cloud Computing,Docker; Kubernetes; AWS
+Kristen Dixon,kristen.dixon@example.com,Software Development,.NET; Spring Boot; C#; Java
+Gregory Stone,gregory.stone@example.com,Software Development,Java; .NET; Microservices
+Andrea Davidson,andrea.davidson@example.com,Web Development,HTML; Node.js; React
+George Bush,george.bush@example.com,Web Development,HTML; React; Node.js
+Tracy Burton,tracy.burton@example.com,Data Science,Statistics; Machine Learning
+Paula Johnson,paula.johnson@example.com,Web Development,CSS; JavaScript; Node.js
+Allison Smith,allison.smith@example.com,Software Development,Java; Spring Boot
+Benjamin Simmons,benjamin.simmons@example.com,Cybersecurity,Network Security; Linux; Penetration Testing; Firewall Management
+Mary Bush,mary.bush@example.com,Software Development,Spring Boot; Java
+Rebecca Brown,rebecca.brown@example.com,Software Development,Microservices; Spring Boot
+Lori Sims,lori.sims@example.com,Software Development,C#; Spring Boot
+Paul White,paul.white@example.com,Cloud Computing,Azure; Kubernetes; AWS; Docker
+Nancy Lester,nancy.lester@example.com,Data Science,Statistics; SQL; Machine Learning; Python
+Jason Richardson,jason.richardson@example.com,Cloud Computing,Docker; AWS
+Joshua Johnson,joshua.johnson@example.com,Cloud Computing,Azure; Docker
+Lori Mitchell,lori.mitchell@example.com,Software Development,.NET; Microservices; Java; C#
+Michael Figueroa,michael.figueroa@example.com,Data Science,SQL; Power BI; Statistics
+Jonathon Perez,jonathon.perez@example.com,Software Development,Spring Boot; .NET
+John Garza,john.garza@example.com,Data Science,Statistics; Power BI
+Ricardo Smith,ricardo.smith@example.com,Web Development,JavaScript; React; Node.js
+Michele Smith,michele.smith@example.com,Project Management,Scrum; Risk Management; Agile
+Michelle Miller,michelle.miller@example.com,Project Management,Agile; Scrum; Risk Management
+Richard Woods,richard.woods@example.com,Web Development,CSS; HTML
+Sierra Palmer,sierra.palmer@example.com,Software Development,Microservices; .NET
+Tim Walker,tim.walker@example.com,Cybersecurity,Firewall Management; Penetration Testing
+Raven Lopez,raven.lopez@example.com,Data Science,Statistics; Python; Power BI; Machine Learning
+Alice Simon,alice.simon@example.com,Web Development,HTML; React; Node.js; JavaScript
+Thomas Warner,thomas.warner@example.com,Cybersecurity,Network Security; Penetration Testing
+Christopher Reeves,christopher.reeves@example.com,Cloud Computing,Docker; AWS; Azure
+Carol Schultz,carol.schultz@example.com,Software Development,C#; Java; .NET; Microservices
+Jacob Molina,jacob.molina@example.com,Software Development,Microservices; C#
+Nicholas Nelson,nicholas.nelson@example.com,Project Management,Scrum; Agile; Stakeholder Communication
+Andrew Wilkinson,andrew.wilkinson@example.com,Cybersecurity,Linux; Network Security
+Melanie Smith,melanie.smith@example.com,Data Science,Statistics; Python; Power BI; SQL
+Melissa Macdonald,melissa.macdonald@example.com,Project Management,Risk Management; Stakeholder Communication; Agile; Scrum
+Mario Pope,mario.pope@example.com,Data Science,Machine Learning; SQL; Python
+Jasmine Daniels,jasmine.daniels@example.com,Web Development,React; Node.js; CSS
+Thomas Kelley,thomas.kelley@example.com,Data Science,Statistics; Python; Machine Learning; Power BI
+Carl Wilcox,carl.wilcox@example.com,Web Development,JavaScript; HTML; React
+Kenneth Hudson,kenneth.hudson@example.com,Project Management,Agile; Scrum; Risk Management; Stakeholder Communication
+Alec Butler,alec.butler@example.com,Software Development,C#; .NET
+Travis Schneider,travis.schneider@example.com,Project Management,Agile; Scrum; Risk Management
+Shawn Reese,shawn.reese@example.com,Web Development,HTML; CSS
+Marie Carter,marie.carter@example.com,Cloud Computing,AWS; Docker; Kubernetes
+Timothy Lyons,timothy.lyons@example.com,Web Development,JavaScript; Node.js
+Veronica Kerr,veronica.kerr@example.com,Web Development,JavaScript; React; CSS
+Timothy Martinez,timothy.martinez@example.com,Data Science,Python; Power BI; Machine Learning
+Paul Shaw,paul.shaw@example.com,Web Development,React; JavaScript; Node.js
+Jamie Morris,jamie.morris@example.com,Data Science,SQL; Statistics; Machine Learning
+Mark Hall,mark.hall@example.com,Software Development,Microservices; Spring Boot; C#; .NET
+Heather Payne,heather.payne@example.com,Project Management,Scrum; Stakeholder Communication; Risk Management
+Mindy Price,mindy.price@example.com,Cybersecurity,Penetration Testing; Network Security
+Walter Miller,walter.miller@example.com,Web Development,HTML; JavaScript
+Vickie Miller,vickie.miller@example.com,Data Science,Machine Learning; Power BI
+Carly Smith,carly.smith@example.com,Cloud Computing,Azure; Docker; AWS; Kubernetes
+Jordan Williams,jordan.williams@example.com,Cybersecurity,Penetration Testing; Linux
+Danielle Brennan,danielle.brennan@example.com,Project Management,Scrum; Risk Management; Agile
+Tyler Baxter,tyler.baxter@example.com,Software Development,Java; C#; .NET
+Robert Ramirez,robert.ramirez@example.com,Cloud Computing,AWS; Azure
+Melissa Stanton,melissa.stanton@example.com,Cybersecurity,Firewall Management; Network Security
+Omar Hood,omar.hood@example.com,Software Development,Spring Boot; Microservices; Java; .NET
+Brent Williams,brent.williams@example.com,Cloud Computing,Azure; AWS; Docker
+Benjamin Johnson,benjamin.johnson@example.com,Cybersecurity,Linux; Firewall Management; Penetration Testing
+Kaitlyn Martinez,kaitlyn.martinez@example.com,Web Development,JavaScript; React; Node.js; CSS
+Nicole Morrison,nicole.morrison@example.com,Data Science,Python; Power BI; SQL
+Deanna Blackburn,deanna.blackburn@example.com,Web Development,React; JavaScript; CSS
+Nicole Santos,nicole.santos@example.com,Project Management,Agile; Risk Management; Scrum
+Michael Valdez,michael.valdez@example.com,Cybersecurity,Penetration Testing; Firewall Management
+Jessica Warren,jessica.warren@example.com,Data Science,Machine Learning; Statistics; Power BI
+Thomas Moore,thomas.moore@example.com,Cybersecurity,Network Security; Linux
+James Fitzgerald,james.fitzgerald@example.com,Software Development,Spring Boot; C#; .NET
+Evan Bryant,evan.bryant@example.com,Cybersecurity,Linux; Firewall Management; Penetration Testing; Network Security
+Rebekah Allen,rebekah.allen@example.com,Data Science,Statistics; Power BI; Python; Machine Learning
+Steven Hensley,steven.hensley@example.com,Web Development,HTML; React; Node.js; JavaScript
+Gary Yu,gary.yu@example.com,Cloud Computing,Kubernetes; AWS; Docker
+Dana Peterson,dana.peterson@example.com,Data Science,Python; SQL; Machine Learning
+Crystal Gray,crystal.gray@example.com,Project Management,Risk Management; Scrum
+Pamela Cuevas,pamela.cuevas@example.com,Cloud Computing,Kubernetes; Azure; Docker
+Douglas Freeman,douglas.freeman@example.com,Data Science,Statistics; Python; Power BI; Machine Learning
+Karla Gonzalez,karla.gonzalez@example.com,Web Development,Node.js; HTML; React
+Adam Hamilton,adam.hamilton@example.com,Cloud Computing,Kubernetes; Azure
+Timothy Johnson,timothy.johnson@example.com,Project Management,Stakeholder Communication; Agile; Risk Management; Scrum
+Clayton Adams,clayton.adams@example.com,Web Development,JavaScript; HTML; React; Node.js
+Parker Hamilton,parker.hamilton@example.com,Web Development,React; JavaScript; Node.js; CSS
+Sarah Baxter,sarah.baxter@example.com,Cybersecurity,Firewall Management; Network Security; Penetration Testing
+Clifford Lawson,clifford.lawson@example.com,Project Management,Stakeholder Communication; Scrum
+Allison Lawrence,allison.lawrence@example.com,Cybersecurity,Linux; Network Security; Firewall Management
+Cynthia Wong,cynthia.wong@example.com,Web Development,HTML; JavaScript; React
+Christine Barton,christine.barton@example.com,Data Science,Power BI; SQL; Statistics; Python
+Michelle Ramirez,michelle.ramirez@example.com,Web Development,Node.js; React; JavaScript; HTML
+Vickie Mueller,vickie.mueller@example.com,Software Development,Microservices; Spring Boot; C#; Java
+Brian Thompson,brian.thompson@example.com,Project Management,Risk Management; Stakeholder Communication; Agile
+William Rosario,william.rosario@example.com,Data Science,Machine Learning; Statistics
+Jason Holmes,jason.holmes@example.com,Data Science,Power BI; SQL; Machine Learning
+Eric Armstrong,eric.armstrong@example.com,Project Management,Agile; Stakeholder Communication; Risk Management
+Robert Johnson,robert.johnson@example.com,Project Management,Stakeholder Communication; Agile
+Patrick Gonzalez,patrick.gonzalez@example.com,Project Management,Agile; Scrum
+Robert Simpson,robert.simpson@example.com,Software Development,Spring Boot; Java; .NET; Microservices
+Ashley Myers,ashley.myers@example.com,Web Development,JavaScript; Node.js; React
+Dominic Nixon,dominic.nixon@example.com,Data Science,Python; Machine Learning; Statistics; Power BI
+Molly Weaver,molly.weaver@example.com,Software Development,Java; Spring Boot; Microservices
+Elijah Johnson,elijah.johnson@example.com,Cloud Computing,Azure; AWS; Docker
+James Ballard,james.ballard@example.com,Software Development,Microservices; Java; C#
+Penny Wallace,penny.wallace@example.com,Project Management,Stakeholder Communication; Agile; Risk Management
+Danny Thompson,danny.thompson@example.com,Software Development,C#; Java
+April Alvarez,april.alvarez@example.com,Project Management,Stakeholder Communication; Risk Management; Agile
+William Acosta,william.acosta@example.com,Project Management,Risk Management; Scrum
+Rebecca Murphy,rebecca.murphy@example.com,Cybersecurity,Penetration Testing; Network Security; Firewall Management
+Jennifer Webb,jennifer.webb@example.com,Software Development,Spring Boot; Java; .NET
+Tammy Bowman,tammy.bowman@example.com,Cybersecurity,Firewall Management; Network Security; Linux; Penetration Testing
+Tony Elliott,tony.elliott@example.com,Software Development,.NET; Spring Boot
+Stacy Larson,stacy.larson@example.com,Cloud Computing,Azure; Kubernetes
+Shawn Watkins,shawn.watkins@example.com,Project Management,Risk Management; Scrum; Stakeholder Communication
+Jason Mays,jason.mays@example.com,Data Science,Python; SQL
+Tyler Martinez,tyler.martinez@example.com,Project Management,Agile; Scrum
+Brian Garcia,brian.garcia@example.com,Data Science,Machine Learning; SQL; Statistics; Python
+Debra Wade,debra.wade@example.com,Cloud Computing,Docker; Kubernetes
+Alicia Lewis,alicia.lewis@example.com,Web Development,Node.js; CSS; HTML
+Julie Mora,julie.mora@example.com,Software Development,C#; Spring Boot
+Alan Smith,alan.smith@example.com,Project Management,Risk Management; Stakeholder Communication; Scrum; Agile
+Anthony Nichols,anthony.nichols@example.com,Software Development,Spring Boot; C#
+Trevor White,trevor.white@example.com,Cybersecurity,Linux; Firewall Management
+Ashley Strickland,ashley.strickland@example.com,Cybersecurity,Penetration Testing; Network Security
+Pamela Kelley,pamela.kelley@example.com,Data Science,Python; SQL; Statistics; Power BI
+Maria Bowers,maria.bowers@example.com,Cybersecurity,Penetration Testing; Network Security; Firewall Management
+Lindsey Peterson,lindsey.peterson@example.com,Data Science,Statistics; SQL; Machine Learning
+Jesse Sanders,jesse.sanders@example.com,Project Management,Stakeholder Communication; Scrum; Risk Management
+Allison Ward,allison.ward@example.com,Web Development,JavaScript; CSS; Node.js; React
+Tara Lee,tara.lee@example.com,Web Development,Node.js; CSS; React; HTML
+Alec Watkins,alec.watkins@example.com,Web Development,CSS; React; HTML; JavaScript
+Evelyn Davis,evelyn.davis@example.com,Web Development,React; Node.js
+Hannah Harvey,hannah.harvey@example.com,Software Development,Spring Boot; C#; Microservices; Java
+Valerie Hicks,valerie.hicks@example.com,Web Development,React; JavaScript; CSS; Node.js
+Kathy Hatfield,kathy.hatfield@example.com,Data Science,Machine Learning; Python; Power BI; SQL
+Elizabeth Carter,elizabeth.carter@example.com,Software Development,Java; Microservices; Spring Boot
+Mark Phillips,mark.phillips@example.com,Cloud Computing,Azure; AWS
+Cynthia Wheeler,cynthia.wheeler@example.com,Software Development,C#; Microservices
+Jennifer Peck,jennifer.peck@example.com,Data Science,Statistics; Machine Learning; Python
+Michelle Ochoa,michelle.ochoa@example.com,Software Development,Java; Spring Boot; C#; Microservices
+Timothy Diaz,timothy.diaz@example.com,Cybersecurity,Penetration Testing; Firewall Management
+John Singh,john.singh@example.com,Data Science,Statistics; Power BI; Machine Learning
+Kimberly Kline,kimberly.kline@example.com,Cybersecurity,Linux; Firewall Management; Penetration Testing
+Dawn Curtis,dawn.curtis@example.com,Cloud Computing,Docker; AWS
+Steven Weaver,steven.weaver@example.com,Cybersecurity,Penetration Testing; Linux; Network Security
+Henry Harris,henry.harris@example.com,Cloud Computing,Kubernetes; Docker; Azure; AWS
+Adam Sawyer,adam.sawyer@example.com,Cloud Computing,Azure; AWS; Kubernetes
+Jay Montes,jay.montes@example.com,Software Development,Microservices; C#
+Shelby Scott,shelby.scott@example.com,Web Development,CSS; React
+Gary Wells,gary.wells@example.com,Cybersecurity,Network Security; Firewall Management; Penetration Testing
+Stephanie Smith,stephanie.smith@example.com,Data Science,Power BI; Machine Learning
+Felicia Cochran,felicia.cochran@example.com,Web Development,JavaScript; CSS; HTML; React
+Daniel Kim,daniel.kim@example.com,Data Science,Python; SQL; Statistics
+Robin Ellis,robin.ellis@example.com,Data Science,SQL; Python; Power BI
+John Rhodes,john.rhodes@example.com,Software Development,Java; Microservices; Spring Boot
+Billy Kelly,billy.kelly@example.com,Cloud Computing,Docker; AWS
+Angela Martin,angela.martin@example.com,Data Science,Statistics; SQL; Python; Machine Learning
+Ann Fields,ann.fields@example.com,Web Development,HTML; Node.js; JavaScript
+Anthony Tran,anthony.tran@example.com,Web Development,JavaScript; CSS
+Carlos Porter,carlos.porter@example.com,Data Science,Python; Power BI; SQL; Machine Learning
+Suzanne Cole,suzanne.cole@example.com,Project Management,Stakeholder Communication; Risk Management; Agile
+Erika Jones,erika.jones@example.com,Cybersecurity,Linux; Network Security; Penetration Testing; Firewall Management
+Cindy Gonzalez,cindy.gonzalez@example.com,Project Management,Agile; Stakeholder Communication; Scrum; Risk Management
+John Baker,john.baker@example.com,Software Development,Microservices; Spring Boot; .NET
+Jeffrey Haynes,jeffrey.haynes@example.com,Data Science,SQL; Python; Machine Learning; Statistics
+Jill Dennis,jill.dennis@example.com,Web Development,Node.js; HTML; JavaScript; React
+Tammy Henry,tammy.henry@example.com,Cybersecurity,Network Security; Firewall Management; Linux
+Kristin Bradford,kristin.bradford@example.com,Software Development,Microservices; Spring Boot
+Heidi Fisher,heidi.fisher@example.com,Software Development,.NET; C#; Microservices; Java
+Jonathan Reed,jonathan.reed@example.com,Cybersecurity,Network Security; Linux
+Stephanie Lopez,stephanie.lopez@example.com,Project Management,Scrum; Agile; Stakeholder Communication
+Jose Gonzalez,jose.gonzalez@example.com,Data Science,Power BI; Python; Machine Learning
+Amber Bowman,amber.bowman@example.com,Software Development,Java; Spring Boot; Microservices; .NET
+Sheri Williams,sheri.williams@example.com,Cybersecurity,Penetration Testing; Linux; Network Security
+Travis Day,travis.day@example.com,Software Development,C#; Spring Boot; .NET
+Anthony Smith,anthony.smith@example.com,Data Science,Python; SQL; Statistics; Power BI
+Sarah Oneal,sarah.oneal@example.com,Web Development,Node.js; React
+Robert Roberson,robert.roberson@example.com,Cybersecurity,Network Security; Penetration Testing; Linux; Firewall Management
+Emily Allen,emily.allen@example.com,Cybersecurity,Penetration Testing; Linux; Network Security
+Shirley Chang,shirley.chang@example.com,Cybersecurity,Linux; Firewall Management
+Joseph Moore,joseph.moore@example.com,Web Development,JavaScript; CSS; React; Node.js
+Peggy Williams,peggy.williams@example.com,Software Development,C#; .NET; Spring Boot; Java
+Summer Padilla,summer.padilla@example.com,Cybersecurity,Network Security; Firewall Management; Linux; Penetration Testing
+Hannah Jordan,hannah.jordan@example.com,Software Development,.NET; Spring Boot
+Robert Gallegos,robert.gallegos@example.com,Cloud Computing,Docker; Azure; AWS
+Hannah Grimes,hannah.grimes@example.com,Cloud Computing,AWS; Azure
+Jerry Moore,jerry.moore@example.com,Web Development,JavaScript; React
+Cody Dorsey,cody.dorsey@example.com,Cloud Computing,Kubernetes; Docker; AWS
+George Brown,george.brown@example.com,Project Management,Risk Management; Stakeholder Communication
+James Hall,james.hall@example.com,Software Development,Java; .NET
+Michael Dunn,michael.dunn@example.com,Project Management,Stakeholder Communication; Risk Management; Scrum
+Amanda Mcdonald,amanda.mcdonald@example.com,Cybersecurity,Linux; Penetration Testing; Network Security
+Susan Morton,susan.morton@example.com,Data Science,Machine Learning; Power BI; SQL; Python
+Ryan Scott,ryan.scott@example.com,Data Science,Machine Learning; Statistics; Python; SQL
+Victoria Jackson,victoria.jackson@example.com,Web Development,CSS; JavaScript; Node.js
+Erik Hall,erik.hall@example.com,Software Development,.NET; Java; Spring Boot
+Austin Edwards,austin.edwards@example.com,Cloud Computing,Azure; Docker; Kubernetes; AWS
+Timothy Jacobs,timothy.jacobs@example.com,Project Management,Agile; Scrum; Risk Management
+Toni Kennedy,toni.kennedy@example.com,Cloud Computing,Kubernetes; Docker
+Isaac Franco,isaac.franco@example.com,Cloud Computing,Kubernetes; AWS; Docker
+David Alexander,david.alexander@example.com,Data Science,Machine Learning; Statistics; SQL
+Jeffrey Pierce,jeffrey.pierce@example.com,Cloud Computing,Kubernetes; Docker
+Candace Martinez,candace.martinez@example.com,Project Management,Agile; Stakeholder Communication
+Adam Hodge,adam.hodge@example.com,Software Development,Microservices; .NET; C#
+Sharon Cummings,sharon.cummings@example.com,Software Development,C#; Java; Microservices; Spring Boot
+Dawn Rodriguez,dawn.rodriguez@example.com,Cybersecurity,Penetration Testing; Linux
+Sarah Harrison,sarah.harrison@example.com,Software Development,Microservices; C#
+Shannon Walker,shannon.walker@example.com,Project Management,Stakeholder Communication; Scrum; Risk Management
+Thomas Patterson,thomas.patterson@example.com,Web Development,Node.js; React; CSS; JavaScript
+Katelyn Delacruz,katelyn.delacruz@example.com,Cybersecurity,Network Security; Linux; Penetration Testing; Firewall Management
+Evelyn Page,evelyn.page@example.com,Cloud Computing,Azure; AWS; Docker; Kubernetes
+Alan Rodriguez,alan.rodriguez@example.com,Web Development,JavaScript; Node.js; CSS; React
+Todd Byrd,todd.byrd@example.com,Cybersecurity,Linux; Penetration Testing; Firewall Management; Network Security
+Kelly Wise,kelly.wise@example.com,Project Management,Agile; Scrum
+Donald Rodriguez,donald.rodriguez@example.com,Cloud Computing,Kubernetes; AWS; Docker; Azure
+Douglas Harmon,douglas.harmon@example.com,Web Development,JavaScript; React; Node.js
+Beth Dunn,beth.dunn@example.com,Data Science,Machine Learning; Power BI; Statistics; SQL
+David Cuevas,david.cuevas@example.com,Software Development,Spring Boot; Microservices
+Brandon Johnston,brandon.johnston@example.com,Data Science,Machine Learning; Power BI; Python; Statistics
+Ivan Collier,ivan.collier@example.com,Project Management,Risk Management; Scrum; Agile
+Harold Frye,harold.frye@example.com,Web Development,CSS; React; JavaScript
+Jennifer Smith,jennifer.smith@example.com,Cybersecurity,Network Security; Linux; Penetration Testing; Firewall Management
+Denise Fields,denise.fields@example.com,Data Science,Statistics; Python
+Elizabeth Gordon,elizabeth.gordon@example.com,Web Development,Node.js; JavaScript
+Stephanie Castillo,stephanie.castillo@example.com,Project Management,Risk Management; Stakeholder Communication; Agile
+Richard Miller,richard.miller@example.com,Software Development,C#; Java; Spring Boot
+Elizabeth Hill,elizabeth.hill@example.com,Web Development,Node.js; HTML; JavaScript; CSS
+Eric Andrews,eric.andrews@example.com,Web Development,Node.js; HTML; JavaScript; React
+Mary Norris,mary.norris@example.com,Project Management,Stakeholder Communication; Agile; Risk Management; Scrum
+Scott Wright,scott.wright@example.com,Software Development,.NET; Microservices
+Jon Pruitt,jon.pruitt@example.com,Web Development,CSS; JavaScript; React; Node.js
+Martin Murphy,martin.murphy@example.com,Data Science,SQL; Statistics; Python
+Patrick Smith,patrick.smith@example.com,Cybersecurity,Penetration Testing; Network Security; Linux
+Jennifer Willis,jennifer.willis@example.com,Cloud Computing,Azure; Kubernetes; AWS; Docker
+William Blake,william.blake@example.com,Data Science,SQL; Machine Learning
+Anna Townsend,anna.townsend@example.com,Software Development,C#; Java; Spring Boot
+Andrew Garcia,andrew.garcia@example.com,Software Development,Spring Boot; Java; .NET
+Robert Church,robert.church@example.com,Cloud Computing,Docker; AWS; Azure
+Samantha Taylor,samantha.taylor@example.com,Cybersecurity,Firewall Management; Linux; Network Security; Penetration Testing
+Paul Lee,paul.lee@example.com,Data Science,Machine Learning; Power BI; SQL; Python
+Pamela Cox,pamela.cox@example.com,Data Science,SQL; Power BI
+Donald Tran,donald.tran@example.com,Web Development,CSS; React
+Jason Walters,jason.walters@example.com,Cybersecurity,Firewall Management; Linux; Network Security
+Randy Ayala,randy.ayala@example.com,Project Management,Scrum; Risk Management; Stakeholder Communication
+Karen Lee,karen.lee@example.com,Software Development,C#; Java; Microservices; .NET
+Michelle Carroll,michelle.carroll@example.com,Data Science,Power BI; Statistics; Python
+Kathy Stewart,kathy.stewart@example.com,Web Development,Node.js; CSS
+Daniel Hicks,daniel.hicks@example.com,Software Development,Java; C#
+Andres Patterson,andres.patterson@example.com,Cloud Computing,Docker; Azure; AWS
+Michael Wells,michael.wells@example.com,Cybersecurity,Linux; Penetration Testing
+Mariah Holland,mariah.holland@example.com,Project Management,Agile; Scrum
+Sean Beasley,sean.beasley@example.com,Cloud Computing,Azure; Kubernetes; Docker
+Valerie Stevens,valerie.stevens@example.com,Software Development,Java; C#
+Willie Freeman,willie.freeman@example.com,Cloud Computing,Azure; AWS
+Krista Anderson,krista.anderson@example.com,Software Development,Java; Microservices; Spring Boot
+Emily Curry,emily.curry@example.com,Cloud Computing,Docker; Kubernetes; AWS
+John Avila,john.avila@example.com,Software Development,Microservices; .NET
+Elijah Klein,elijah.klein@example.com,Project Management,Scrum; Stakeholder Communication; Agile
+Elizabeth Palmer,elizabeth.palmer@example.com,Project Management,Stakeholder Communication; Scrum; Risk Management; Agile
+Todd Greene,todd.greene@example.com,Cybersecurity,Penetration Testing; Firewall Management
+Lindsay Jones,lindsay.jones@example.com,Cloud Computing,AWS; Azure; Docker
+Madison Jackson,madison.jackson@example.com,Cloud Computing,Kubernetes; AWS; Azure; Docker
+Sonya Smith,sonya.smith@example.com,Web Development,JavaScript; CSS; HTML
+Matthew Mcguire,matthew.mcguire@example.com,Project Management,Agile; Scrum
+Anthony Wilkinson,anthony.wilkinson@example.com,Cybersecurity,Network Security; Penetration Testing; Firewall Management; Linux
+Sharon House,sharon.house@example.com,Project Management,Risk Management; Scrum; Stakeholder Communication; Agile
+Lisa Irwin,lisa.irwin@example.com,Project Management,Risk Management; Scrum
+Brady Zuniga,brady.zuniga@example.com,Project Management,Scrum; Risk Management
+Elizabeth Aguilar,elizabeth.aguilar@example.com,Cloud Computing,Azure; AWS
+Deborah Blackburn,deborah.blackburn@example.com,Project Management,Stakeholder Communication; Scrum; Agile; Risk Management
+Patricia Porter,patricia.porter@example.com,Project Management,Scrum; Stakeholder Communication; Agile; Risk Management
+Jeremy Mitchell,jeremy.mitchell@example.com,Cloud Computing,Kubernetes; AWS; Docker
+Timothy Smith,timothy.smith@example.com,Cloud Computing,Azure; AWS; Docker; Kubernetes
+Jeremiah Williams,jeremiah.williams@example.com,Cybersecurity,Linux; Penetration Testing
+Meredith Phillips,meredith.phillips@example.com,Cloud Computing,Azure; Docker; Kubernetes; AWS
+Thomas Pham,thomas.pham@example.com,Software Development,C#; Java; Microservices
+Jack Walker,jack.walker@example.com,Web Development,React; CSS; JavaScript
+Megan Fisher,megan.fisher@example.com,Software Development,C#; Java
+Anthony Gutierrez,anthony.gutierrez@example.com,Web Development,HTML; React
+Ashley Gilbert,ashley.gilbert@example.com,Software Development,Microservices; C#
+Justin Collins,justin.collins@example.com,Web Development,HTML; Node.js; React; CSS
+Susan Brown,susan.brown@example.com,Software Development,C#; Spring Boot; Java; .NET
+Jose Stephenson,jose.stephenson@example.com,Software Development,Microservices; Spring Boot; .NET
+Lisa Hinton,lisa.hinton@example.com,Web Development,React; HTML; CSS
+Jason Lynch,jason.lynch@example.com,Data Science,Python; Statistics; Power BI
+Melanie Odom,melanie.odom@example.com,Data Science,Power BI; Python; Machine Learning
+Robert Summers,robert.summers@example.com,Cybersecurity,Linux; Penetration Testing
+Kayla Hayes,kayla.hayes@example.com,Cloud Computing,Kubernetes; Azure
+Laura Collins,laura.collins@example.com,Cybersecurity,Linux; Firewall Management; Penetration Testing; Network Security
+Charles Johnson,charles.johnson@example.com,Software Development,C#; Java
+Catherine Mercado,catherine.mercado@example.com,Cybersecurity,Linux; Penetration Testing; Firewall Management
+Richard Powell,richard.powell@example.com,Project Management,Agile; Stakeholder Communication
+Matthew Jones,matthew.jones@example.com,Project Management,Risk Management; Scrum
+Aaron Howard,aaron.howard@example.com,Data Science,Python; SQL; Machine Learning
+Amber Lewis,amber.lewis@example.com,Software Development,Spring Boot; Java; .NET; Microservices
+Danielle Sanchez,danielle.sanchez@example.com,Software Development,Spring Boot; C#; Java
+Larry Moreno,larry.moreno@example.com,Project Management,Stakeholder Communication; Risk Management; Scrum; Agile
+Sherry Harris,sherry.harris@example.com,Cloud Computing,Kubernetes; AWS; Azure
+Kimberly Davidson,kimberly.davidson@example.com,Project Management,Risk Management; Stakeholder Communication; Agile
+Sonya Tran,sonya.tran@example.com,Web Development,HTML; React; Node.js
+Marissa Peterson,marissa.peterson@example.com,Web Development,Node.js; HTML; CSS; JavaScript
+Travis Ramirez,travis.ramirez@example.com,Data Science,SQL; Python; Machine Learning
+Erica Vazquez,erica.vazquez@example.com,Cybersecurity,Linux; Firewall Management
+Susan Orr,susan.orr@example.com,Project Management,Agile; Stakeholder Communication; Scrum
+Sarah Thomas,sarah.thomas@example.com,Data Science,Statistics; Power BI; SQL
+Lori Barnes,lori.barnes@example.com,Cybersecurity,Linux; Network Security; Firewall Management
+Stacy Lopez,stacy.lopez@example.com,Data Science,SQL; Python; Statistics
+Jennifer Thomas,jennifer.thomas@example.com,Data Science,SQL; Machine Learning; Python
+Kevin Santiago,kevin.santiago@example.com,Cloud Computing,Azure; AWS
+David Phillips,david.phillips@example.com,Data Science,SQL; Power BI; Machine Learning; Statistics
+Lauren Berry,lauren.berry@example.com,Cybersecurity,Network Security; Penetration Testing; Firewall Management; Linux
+Maria Collins,maria.collins@example.com,Cloud Computing,AWS; Kubernetes; Azure; Docker
+David Gaines,david.gaines@example.com,Data Science,Machine Learning; Power BI; Statistics; SQL
+Emily Shaw,emily.shaw@example.com,Data Science,Statistics; Python; Machine Learning
+Cynthia Stephens,cynthia.stephens@example.com,Web Development,HTML; React; CSS; JavaScript
+Michael Jones,michael.jones@example.com,Software Development,Java; C#
+Mark Macias,mark.macias@example.com,Project Management,Risk Management; Scrum; Stakeholder Communication; Agile
+Justin Wilcox,justin.wilcox@example.com,Project Management,Agile; Risk Management; Scrum
+Jeffrey White,jeffrey.white@example.com,Web Development,HTML; JavaScript; CSS
+Jocelyn Chan,jocelyn.chan@example.com,Cybersecurity,Network Security; Firewall Management
+Marissa Miller,marissa.miller@example.com,Project Management,Risk Management; Scrum; Stakeholder Communication; Agile
+Michelle Neal,michelle.neal@example.com,Data Science,Machine Learning; Power BI; SQL
+Hannah Nielsen,hannah.nielsen@example.com,Software Development,Java; .NET; Spring Boot
+Cody Moore,cody.moore@example.com,Data Science,Statistics; Python
+Judith Hodges,judith.hodges@example.com,Cybersecurity,Linux; Network Security; Firewall Management; Penetration Testing
+Brandon Lyons,brandon.lyons@example.com,Cybersecurity,Penetration Testing; Network Security
+Austin Ferguson,austin.ferguson@example.com,Web Development,React; HTML; JavaScript; CSS
+Ryan Flores,ryan.flores@example.com,Data Science,Power BI; Machine Learning
+Stephen Burns,stephen.burns@example.com,Cybersecurity,Penetration Testing; Linux; Firewall Management
+Erika Johnson,erika.johnson@example.com,Cybersecurity,Firewall Management; Linux; Penetration Testing
+Lisa Espinoza,lisa.espinoza@example.com,Web Development,CSS; HTML; JavaScript; React
+Emily Sexton,emily.sexton@example.com,Web Development,HTML; Node.js; React
+Kevin Hodge,kevin.hodge@example.com,Cloud Computing,Docker; Azure
+Joshua Jones,joshua.jones@example.com,Data Science,Python; SQL
+Derek Johnson,derek.johnson@example.com,Cloud Computing,Azure; AWS
+Anne Campbell,anne.campbell@example.com,Cybersecurity,Network Security; Linux
+Kelly Ramos,kelly.ramos@example.com,Project Management,Stakeholder Communication; Scrum
+Travis Morgan,travis.morgan@example.com,Project Management,Risk Management; Agile; Stakeholder Communication
+Alexander Sawyer,alexander.sawyer@example.com,Cybersecurity,Linux; Penetration Testing; Network Security
+Mary Stewart,mary.stewart@example.com,Web Development,React; CSS
+Tracy Walker,tracy.walker@example.com,Cybersecurity,Firewall Management; Penetration Testing
+Kelly Byrd,kelly.byrd@example.com,Data Science,Statistics; Power BI; Python
+Gary Smith,gary.smith@example.com,Project Management,Agile; Stakeholder Communication; Risk Management; Scrum
+Sean Barber,sean.barber@example.com,Data Science,Machine Learning; Python; SQL
+Jennifer Clark,jennifer.clark@example.com,Data Science,Power BI; SQL; Python; Machine Learning
+Erika Norman,erika.norman@example.com,Software Development,Microservices; C#; Java
+Dennis Obrien,dennis.obrien@example.com,Cybersecurity,Firewall Management; Penetration Testing; Network Security; Linux
+Louis Russell,louis.russell@example.com,Cybersecurity,Penetration Testing; Linux; Firewall Management; Network Security
+Melissa Nelson,melissa.nelson@example.com,Data Science,Statistics; Machine Learning
+Tara Smith,tara.smith@example.com,Cybersecurity,Firewall Management; Penetration Testing
+Kimberly Holt,kimberly.holt@example.com,Project Management,Agile; Scrum; Stakeholder Communication
+Jennifer Jones,jennifer.jones@example.com,Cloud Computing,Docker; Kubernetes; AWS; Azure
+Clifford Brown,clifford.brown@example.com,Data Science,Statistics; Power BI
+Deborah Andrade,deborah.andrade@example.com,Cybersecurity,Linux; Firewall Management
+Robert Powell,robert.powell@example.com,Web Development,HTML; React; CSS
+Jacqueline Wilson,jacqueline.wilson@example.com,Data Science,Machine Learning; Python; Statistics; Power BI
+Rebecca Petty,rebecca.petty@example.com,Cloud Computing,Kubernetes; Docker; Azure
+Andrew Murphy,andrew.murphy@example.com,Web Development,HTML; React; Node.js
+Selena Haney,selena.haney@example.com,Project Management,Scrum; Agile; Risk Management; Stakeholder Communication
+Marcus Mcclain,marcus.mcclain@example.com,Cloud Computing,Docker; AWS; Kubernetes
+Katherine Turner,katherine.turner@example.com,Data Science,Machine Learning; SQL
+Elizabeth Campos,elizabeth.campos@example.com,Project Management,Scrum; Agile; Risk Management
+Raymond Saunders,raymond.saunders@example.com,Software Development,Spring Boot; Microservices; Java; .NET
+Danielle Jones,danielle.jones@example.com,Data Science,Statistics; SQL; Power BI
+Kelsey Johnson,kelsey.johnson@example.com,Cybersecurity,Firewall Management; Penetration Testing
+Gregory Wong,gregory.wong@example.com,Web Development,React; CSS
+Shawn Ford,shawn.ford@example.com,Project Management,Risk Management; Agile; Scrum
+Antonio Barber,antonio.barber@example.com,Web Development,JavaScript; CSS; HTML
+James Perez,james.perez@example.com,Web Development,JavaScript; React; CSS
